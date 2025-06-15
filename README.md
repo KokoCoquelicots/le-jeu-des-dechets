@@ -9,7 +9,7 @@
 Site fictif réalisé en groupe de 3, en 2ème année de BUT MMI.  
 Ce site permet de jouer au Jeu des Dé'cheh, créé par la Maison pour la science en Alsace.
 
-## Technologies et outils utilisés
+## Languages et outils utilisés
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
