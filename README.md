@@ -6,7 +6,7 @@
 [Accéder au site](https://jeudesdechets.hoffmannc.etu.mmi-unistra.fr/)
 
 ## Description  
-Site fictif réalisé en groupe de 3, en 2ème année de BUT MMI.  
+Site fictif réalisé en groupe de 3, en 2ème année de BUT MMI parcours Développement web et dispositifs interactifs.  
 Ce site permet de jouer au Jeu des Dé'cheh, créé par la Maison pour la science en Alsace.
 
 ## Languages et outils utilisés
