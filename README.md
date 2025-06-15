@@ -1,6 +1,6 @@
 # Jeu des Dé'cheh 
 
-![Image du projet](URL_DE_TON_IMAGE)
+![Image du projet](jeu_dechets.png)
 
 ## Voir le site  
 [Accéder au site](https://jeudesdechets.hoffmannc.etu.mmi-unistra.fr/)
