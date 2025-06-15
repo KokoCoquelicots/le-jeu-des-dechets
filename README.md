@@ -18,6 +18,7 @@ Ce site permet de jouer au Jeu des Dé'cheh, créé par la Maison pour la scienc
 ![Twig](https://img.shields.io/badge/Twig-009688?style=flat&logo=twig&logoColor=white)
 
 ## Travail réalisé  
+- Méthode agile
 - Conception et développement front-end en HTML, CSS et JavaScript  
 - Développement back-end avec Symfony et Twig  
 - Travail en groupe de 3 personnes
